@@ -2,9 +2,10 @@
 package tallerciitec;
 /**
  *
- * @author antonio072
+ * @author k0th
  * Clase de Java creada para el taller de Git y Github
  */
+//Esto es un comentario
 public class TallerCIITEC {
 
     public static void main(String[] args) {
